@@ -2,6 +2,6 @@
 int main(void)
 {
   printf("hello20150328\n");
-  printf("I am learning how to update from git\n");ddd
+  printf("I am learning how to update from git\n");
   return 0;
 }
